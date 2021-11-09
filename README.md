@@ -23,4 +23,6 @@ Association Rules: Apriori
 
 I hope you enjoy my work. Cheers!
 
-ML Analytics Report.pdf
+Please find my report ML Analytics Report.pdf above or click
+
+https://github.com/chris-ip/Machine-Learning/blob/4573a5cf1dc4d4aea559ec67a7e7bf180d8a0ca0/ML%20Analytics%20Report.pdf
