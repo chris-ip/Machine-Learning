@@ -1,4 +1,4 @@
-# Data-Analysis
+# Machine-Learning
 
 
 In this repository, you will find multiple datasets where I applied supervised, unsupervised learning and text mining techniques.
