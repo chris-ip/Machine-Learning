@@ -18,4 +18,4 @@ The text mining techniques I used:
 Association Rules.
 
 
-// I hope you enjoy my work!! //
+I hope you enjoy my work. Cheers!
