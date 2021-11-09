@@ -6,9 +6,9 @@ These datasets reflect some examples of real-world problems.
 The analytics platform I used was KNIME.
 
 
-The supervised learning techniques I used:
-Classification;
-Regression.
+//The supervised learning techniques I used//
+Classification: Naive Bayes, k-nearest neighbor, support vector machine
+Regression: Linear regression, regression tree
 
 
 The unsupervised learning techniques I used:
