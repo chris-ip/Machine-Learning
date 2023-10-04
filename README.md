@@ -21,4 +21,4 @@ Clustering: K-means, hierarchical
 
 Association Rules: Apriori
 
-My report👉 ML Analytics Report.pdf
+My report👉 https://github.com/chris-ip/Machine-Learning/blob/71ec1d2b2ff1d41e7e09f57531b273dbccef19db/ML%20Analytics%20Report.pdf
